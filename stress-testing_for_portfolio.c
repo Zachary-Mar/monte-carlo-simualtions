@@ -85,7 +85,7 @@ void run_stress_test (const char *scenario_name, double annual_drift, double ann
 	printf("----------------------------------------------------------------\n");
 	printf(" 95%% 2 Month VaR (Max Loss with 95%% confidence):  $%.2f\n", var_95);
 	printf(" 99%% 2 Month VaR (Max Loss with 99%% confidence):  $%.2f\n", var_99);
-	printf(" 99%% 2 Month pCVaR (Expected Loss in Worst 1%%):   $%.2f\n", cvar_99);
+	printf(" 99%% 2 Month VaR (Expected Loss in Worst 1%%):   $%.2f\n", cvar_99);
 	printf(" Worst Simulated Catastrophic Loss (Max Loss):   $%.2f\n", max_loss);
 	printf("================================================================\n\n");
 
