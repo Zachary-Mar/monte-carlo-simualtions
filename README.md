@@ -1,2 +1,2 @@
-# Monte-Carlo-simulation-for-Secretary-problem
-Modelling the secretary problem to find the optimal stopping point of rejection to find the best candidate
+# Monte-Carlo-simulations
+Learning basics quantitative modelling to examine problem scenarios and optimise portfolio and risk management. 
